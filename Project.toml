@@ -1,4 +1,12 @@
 name = "KernelDensityEstimation"
-uuid = "5a5663fd-7e90-4773-9138-4c5da1f3bf66"
+uuid = "75a4f8d5-688b-4e21-a64c-3d12bbdeed93"
 authors = ["Joonas Miettinen <joonas.m.miettinen@gmail.com>"]
-version = "0.2.0"
+version = "0.3.0"
+
+[deps]
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+Distances = "b4f34e82-e78d-54a5-968a-f98e89d6e8f7"
+
+[compat]
+julia = "1.4"
+
