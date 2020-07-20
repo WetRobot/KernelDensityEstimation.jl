@@ -1,4 +1,4 @@
 name = "KernelDensityEstimation"
-uuid = "fb220902-e44c-4a6a-9795-32d792410ed1"
+uuid = "5a5663fd-7e90-4773-9138-4c5da1f3bf66"
 authors = ["Joonas Miettinen <joonas.m.miettinen@gmail.com>"]
-version = "0.1.0"
+version = "0.2.0"
