@@ -6,5 +6,5 @@ Kernel density estimation in Julia.
 
 ```
 import Pkg
-Pkg.add("https://github.com/WetRobot/KernelDensityEstimation.jl/")
+Pkg.add(Pkg.PackageSpec(url = "https://github.com/WetRobot/KernelDensityEstimation.jl/"))
 ```
